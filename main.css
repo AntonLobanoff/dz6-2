@@ -1,0 +1,12 @@
+.wrapper{
+    display: grid;
+    grid-template-columns:200px 200px 200px 200px 200px;
+}
+.cars{
+    
+    display: grid;
+    padding: 10px;    
+    grid-template-rows: 70px 15px 20px 0px;
+    text-align: center;
+    
+}
